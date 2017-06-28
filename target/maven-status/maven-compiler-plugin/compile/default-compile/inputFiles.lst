@@ -1,0 +1,9 @@
+/home/rfreitas/code-projects/unico/src/main/java/JDAO/JDaoMain.java
+/home/rfreitas/code-projects/unico/src/main/java/dps/Unico.java
+/home/rfreitas/code-projects/unico/src/main/java/dps/ConexaoSingleton.java
+/home/rfreitas/code-projects/unico/src/main/java/JDAO/connection/ConnectionFactory.java
+/home/rfreitas/code-projects/unico/src/main/java/JDAO/model/bean/Produto.java
+/home/rfreitas/code-projects/unico/src/main/java/JDAO/model/dao/ProdutoDAO.java
+/home/rfreitas/code-projects/unico/src/main/java/JDAO/model/bean/Categoria.java
+/home/rfreitas/code-projects/unico/src/main/java/JDAO/model/dao/CategoriaDAO.java
+/home/rfreitas/code-projects/unico/src/main/java/dps/Conexao.java
